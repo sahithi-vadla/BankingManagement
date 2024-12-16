@@ -21,6 +21,8 @@ public class Account {
 			System.out.println("money deposited---");
 			
 		}
+	}public void sample() {
+		
 	}
 	public void withdraw(int amount) {
 		if(amount>100 && amount<=balance) {
